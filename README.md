@@ -6,3 +6,7 @@
 
 taken as a basis - https://github.com/rdbo/ImGui-DirectX-11-Kiero-Hook
 
+Telegram 
+![image](https://github.com/user-attachments/assets/50859d50-9b2a-4d31-aace-0320a6cd89e1)
+
+https://t.me/trin_external
